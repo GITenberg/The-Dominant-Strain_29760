@@ -1,0 +1,36 @@
+_repo: The-Dominant-Strain_29760
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Edwards, H. C. (Harry C.)
+    alias: Edwards, Harry C.
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '34137'
+    url: http://www.gutenberg.org/2009/agents/34137
+covers:
+- cover_type: archival
+  image_path: 29760-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ray, Anna Chapin
+    alias: Ray, Fan
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '1234'
+    url: http://www.gutenberg.org/2009/agents/1234
+description: ''
+gutenberg_issued: '2009-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29760'
+  lccn: 03012813
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Dominant Strain
+url: http://www.gutenberg.org/ebooks/29760
